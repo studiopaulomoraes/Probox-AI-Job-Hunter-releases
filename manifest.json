@@ -1,14 +1,15 @@
 {
-  "version": "0.1.0",
-  "publishedAt": "2026-09-24T13:24:15Z",
-  "notes": "Release 0.1.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
+  "version": "0.1.1",
+  "publishedAt": "2026-09-24T13:28:38Z",
+  "notes": "Release 0.1.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
   "assets": {
     "mac": {
-      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.1.0/JobHunter-0.1.0-mac.pkg",
-      "sha256": "fd852a62b89b2068ed0edd0c25b8f32455118675292dff4172a03acef4e7360f"
+      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.1.1/JobHunter-0.1.1-mac.pkg",
+      "sha256": "dcda58614ee22d98519b8579c8f7e9318b38cf0b8979a875dca82df625c90fb9"
     }
   },
   "notesByVersion": {
-    "0.1.0": "Release 0.1.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir."
+    "0.1.0": "Release 0.1.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
+    "0.1.1": "Release 0.1.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir."
   }
 }
