@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "publishedAt": "2026-09-25T04:12:23Z",
-  "notes": "Release 0.2.3\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: implement update download and installation process",
+  "version": "0.2.4",
+  "publishedAt": "2026-09-25T04:27:49Z",
+  "notes": "Release 0.2.4\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.2.4 in version.properties\n- feat: enhance Trello board URL resolution and client functionality",
   "assets": {
     "mac": {
-      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.3/JobHunter-0.2.3-mac.pkg",
-      "sha256": "4e9c0ced3c9c2ce316bf144ebddd069087b04953ad1fc39e76a7f6f61e7940ba"
+      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.4/JobHunter-0.2.4-mac.pkg",
+      "sha256": "96a8b13db5b3804c1b56034571c4ff1b293bb76ed300d3bb08e5b759e7957a38"
     }
   },
   "notesByVersion": {
@@ -17,6 +17,7 @@
     "0.2.0": "Release 0.2.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: add Trello integration for job management\n- feat: implement data management and persistence layer\n- feat: enhance scan report localization and structure\n- chore: release 0.2.0\n- feat: expand candidate profile management and enhance localization\n- feat: enhance profile window layout and button functionality",
     "0.2.1": "Release 0.2.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: update Gmail authentication process and documentation\n- feat: add Trello integration for job management\n- feat: implement data management and persistence layer\n- feat: enhance scan report localization and structure",
     "0.2.2": "Release 0.2.2\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: release 0.2.2",
-    "0.2.3": "Release 0.2.3\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: implement update download and installation process"
+    "0.2.3": "Release 0.2.3\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: implement update download and installation process",
+    "0.2.4": "Release 0.2.4\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.2.4 in version.properties\n- feat: enhance Trello board URL resolution and client functionality"
   }
 }
