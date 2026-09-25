@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
-  "publishedAt": "2026-09-25T12:36:26Z",
-  "notes": "Release 0.2.7\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: enhance Gmail credentials loading with dynamic client secret resolution",
+  "version": "0.3.0",
+  "publishedAt": "2026-09-25T18:34:55Z",
+  "notes": "Release 0.3.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.3.0 in version.properties\n- feat: enhance UI with liquid glass effects and frame zoom functionality\n- feat: enhance Trello synchronization and job management capabilities",
   "assets": {
     "mac": {
-      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.7/JobHunter-0.2.7-mac.pkg",
-      "sha256": "9fbceea01ba3674cf1cf4c5b3a220b348f08facde883e0fb0dd9200edab62993"
+      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.3.0/JobHunter-0.3.0-mac.pkg",
+      "sha256": "b572d0b8f767b1db6d2f916c04213b7d9bb753f5ae5f2351c3dbc2e6c819536f"
     }
   },
   "notesByVersion": {
@@ -21,6 +21,7 @@
     "0.2.4": "Release 0.2.4\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.2.4 in version.properties\n- feat: enhance Trello board URL resolution and client functionality",
     "0.2.5": "Release 0.2.5\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: add asynchronous update check functionality",
     "0.2.6": "Release 0.2.6\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- fix: improve update handling logic and prevent older updates from replacing newer ones",
-    "0.2.7": "Release 0.2.7\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: enhance Gmail credentials loading with dynamic client secret resolution"
+    "0.2.7": "Release 0.2.7\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: enhance Gmail credentials loading with dynamic client secret resolution",
+    "0.3.0": "Release 0.3.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.3.0 in version.properties\n- feat: enhance UI with liquid glass effects and frame zoom functionality\n- feat: enhance Trello synchronization and job management capabilities"
   }
 }
