@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
-  "publishedAt": "2026-09-25T04:37:11Z",
-  "notes": "Release 0.2.6\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- fix: improve update handling logic and prevent older updates from replacing newer ones",
+  "version": "0.2.7",
+  "publishedAt": "2026-09-25T12:36:26Z",
+  "notes": "Release 0.2.7\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: enhance Gmail credentials loading with dynamic client secret resolution",
   "assets": {
     "mac": {
-      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.6/JobHunter-0.2.6-mac.pkg",
-      "sha256": "7fb446517322189d55873550702b4a706ba2edf7e497b21d99145c929bf6dab5"
+      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.7/JobHunter-0.2.7-mac.pkg",
+      "sha256": "9fbceea01ba3674cf1cf4c5b3a220b348f08facde883e0fb0dd9200edab62993"
     }
   },
   "notesByVersion": {
@@ -20,6 +20,7 @@
     "0.2.3": "Release 0.2.3\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: implement update download and installation process",
     "0.2.4": "Release 0.2.4\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.2.4 in version.properties\n- feat: enhance Trello board URL resolution and client functionality",
     "0.2.5": "Release 0.2.5\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: add asynchronous update check functionality",
-    "0.2.6": "Release 0.2.6\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- fix: improve update handling logic and prevent older updates from replacing newer ones"
+    "0.2.6": "Release 0.2.6\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- fix: improve update handling logic and prevent older updates from replacing newer ones",
+    "0.2.7": "Release 0.2.7\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: enhance Gmail credentials loading with dynamic client secret resolution"
   }
 }
