@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
-  "publishedAt": "2026-09-25T03:47:00Z",
-  "notes": "Release 0.2.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: update Gmail authentication process and documentation\n- feat: add Trello integration for job management\n- feat: implement data management and persistence layer\n- feat: enhance scan report localization and structure",
+  "version": "0.2.2",
+  "publishedAt": "2026-09-25T03:54:25Z",
+  "notes": "Release 0.2.2\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: release 0.2.2",
   "assets": {
     "mac": {
-      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.1/JobHunter-0.2.1-mac.pkg",
-      "sha256": "da25b8b53957aece027bdd8621458a3a9f8fb542fe8fdb60507d7295437ff452"
+      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.2/JobHunter-0.2.2-mac.pkg",
+      "sha256": "6c8fdbfd6033bb4c072b5ed2d00b187b5c9e78dad6c9ae0bfc77a6fd202919e1"
     }
   },
   "notesByVersion": {
@@ -15,6 +15,7 @@
     "0.1.3": "Release 0.1.3\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
     "0.1.4": "Release 0.1.4\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
     "0.2.0": "Release 0.2.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: add Trello integration for job management\n- feat: implement data management and persistence layer\n- feat: enhance scan report localization and structure\n- chore: release 0.2.0\n- feat: expand candidate profile management and enhance localization\n- feat: enhance profile window layout and button functionality",
-    "0.2.1": "Release 0.2.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: update Gmail authentication process and documentation\n- feat: add Trello integration for job management\n- feat: implement data management and persistence layer\n- feat: enhance scan report localization and structure"
+    "0.2.1": "Release 0.2.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: update Gmail authentication process and documentation\n- feat: add Trello integration for job management\n- feat: implement data management and persistence layer\n- feat: enhance scan report localization and structure",
+    "0.2.2": "Release 0.2.2\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: release 0.2.2"
   }
 }
