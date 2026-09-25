@@ -1,11 +1,11 @@
 {
-  "version": "0.3.1",
-  "publishedAt": "2026-09-25T19:19:03Z",
-  "notes": "Release 0.3.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.3.1 in version.properties\n- feat: update README and enhance login handling in install-runtime script",
+  "version": "0.3.2",
+  "publishedAt": "2026-09-25T19:37:57Z",
+  "notes": "Release 0.3.2\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- refactor: streamline update confirmation dialogs in SettingsWindow",
   "assets": {
     "mac": {
-      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.3.1/JobHunter-0.3.1-mac.pkg",
-      "sha256": "18df2e203b42f4d23ecd17e1f67e3a8cee5bb417c145ffd397ad2b5b50b373cf"
+      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.3.2/JobHunter-0.3.2-mac.pkg",
+      "sha256": "9a19228045adeb45fd252a08c37fcea0a9021fb4134597d17bf49e353807a37b"
     }
   },
   "notesByVersion": {
@@ -23,6 +23,7 @@
     "0.2.6": "Release 0.2.6\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- fix: improve update handling logic and prevent older updates from replacing newer ones",
     "0.2.7": "Release 0.2.7\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: enhance Gmail credentials loading with dynamic client secret resolution",
     "0.3.0": "Release 0.3.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.3.0 in version.properties\n- feat: enhance UI with liquid glass effects and frame zoom functionality\n- feat: enhance Trello synchronization and job management capabilities",
-    "0.3.1": "Release 0.3.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.3.1 in version.properties\n- feat: update README and enhance login handling in install-runtime script"
+    "0.3.1": "Release 0.3.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.3.1 in version.properties\n- feat: update README and enhance login handling in install-runtime script",
+    "0.3.2": "Release 0.3.2\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- refactor: streamline update confirmation dialogs in SettingsWindow"
   }
 }
