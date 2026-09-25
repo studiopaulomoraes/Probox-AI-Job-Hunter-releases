@@ -1,11 +1,11 @@
 {
-  "version": "0.2.5",
-  "publishedAt": "2026-09-25T04:31:34Z",
-  "notes": "Release 0.2.5\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: add asynchronous update check functionality",
+  "version": "0.2.6",
+  "publishedAt": "2026-09-25T04:37:11Z",
+  "notes": "Release 0.2.6\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- fix: improve update handling logic and prevent older updates from replacing newer ones",
   "assets": {
     "mac": {
-      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.5/JobHunter-0.2.5-mac.pkg",
-      "sha256": "f8e73303b05534e17b6825e5e52d701f97a2794d48a79d74f82e44d4c8fdba80"
+      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.6/JobHunter-0.2.6-mac.pkg",
+      "sha256": "7fb446517322189d55873550702b4a706ba2edf7e497b21d99145c929bf6dab5"
     }
   },
   "notesByVersion": {
@@ -19,6 +19,7 @@
     "0.2.2": "Release 0.2.2\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: release 0.2.2",
     "0.2.3": "Release 0.2.3\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: implement update download and installation process",
     "0.2.4": "Release 0.2.4\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- chore: update version to 0.2.4 in version.properties\n- feat: enhance Trello board URL resolution and client functionality",
-    "0.2.5": "Release 0.2.5\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: add asynchronous update check functionality"
+    "0.2.5": "Release 0.2.5\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: add asynchronous update check functionality",
+    "0.2.6": "Release 0.2.6\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- fix: improve update handling logic and prevent older updates from replacing newer ones"
   }
 }
