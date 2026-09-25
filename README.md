@@ -6,11 +6,11 @@ Local assistant that discovers remote jobs, evaluates fit with AI, and syncs wit
 
 ## Download
 
-**Latest version: [0.3.2](https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/tag/0.3.2)** · [All releases](https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases)
+**Latest version: [0.3.3](https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/tag/0.3.3)** · [All releases](https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases)
 
 | Platform | Format | Download |
 |----------|--------|----------|
-| **macOS** | PKG | [**Download**](https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.3.2/JobHunter-0.3.2-mac.pkg) |
+| **macOS** | PKG | [**Download**](https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.3.3/JobHunter-0.3.3-mac.pkg) |
 
 <details>
 <summary><strong>First launch notes</strong></summary>
