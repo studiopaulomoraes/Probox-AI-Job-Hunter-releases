@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "publishedAt": "2026-09-24T14:15:29Z",
-  "notes": "Release 0.1.4\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
+  "version": "0.2.0",
+  "publishedAt": "2026-09-25T03:34:34Z",
+  "notes": "Release 0.2.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: add Trello integration for job management\n- feat: implement data management and persistence layer\n- feat: enhance scan report localization and structure\n- chore: release 0.2.0\n- feat: expand candidate profile management and enhance localization\n- feat: enhance profile window layout and button functionality",
   "assets": {
     "mac": {
-      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.1.4/JobHunter-0.1.4-mac.pkg",
-      "sha256": "8e14601f29df28c164dd187d2e33ab9dec7fe6bc1cb8b80284d8c266edb4e9f1"
+      "url": "https://github.com/studiopaulomoraes/Probox-AI-Job-Hunter-releases/releases/download/0.2.0/JobHunter-0.2.0-mac.pkg",
+      "sha256": "05469eda5ab51ab1e601c69049c4e719cde781ba23254df3051767d3c0df1fa5"
     }
   },
   "notesByVersion": {
@@ -13,6 +13,7 @@
     "0.1.1": "Release 0.1.1\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
     "0.1.2": "Release 0.1.2\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
     "0.1.3": "Release 0.1.3\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
-    "0.1.4": "Release 0.1.4\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir."
+    "0.1.4": "Release 0.1.4\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.",
+    "0.2.0": "Release 0.2.0\n\nmacOS: na primeira execução, clique com o botão direito no instalador ou no app e escolha Abrir.\n\n## Alterações\n\n- feat: add Trello integration for job management\n- feat: implement data management and persistence layer\n- feat: enhance scan report localization and structure\n- chore: release 0.2.0\n- feat: expand candidate profile management and enhance localization\n- feat: enhance profile window layout and button functionality"
   }
 }
